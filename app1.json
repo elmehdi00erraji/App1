@@ -22,7 +22,7 @@
 
 "banner_network_choice":"applovin", 
 "interstisial_network_choice":"applovin", 
-"native_network_choice":"applovin",
+"native_network_choice":"no",
 "show_buttons":"yes"
   
 
