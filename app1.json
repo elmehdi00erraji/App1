@@ -1,38 +1,10 @@
 {"ads":{
   
-"applovin_inter":"269d73adeea133fb",
-"applovin_native":"5534d47212ed8e80",
-"applovin_banner":"d7e5387a22cc8044",
 
   
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_gameid":"5082535",
-  
-  
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-  
-  
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-  
-
-"banner_network_choice":"non", 
-"interstisial_network_choice":"non", 
-"native_network_choice":"non",
-  
-"change_content":"non",
-  
-"fake_button_1":"What are V-Bucks?",
-"fake_button_2":"Can I get free V-Bucks?",
-"fake_button_3":"How much do v-Bucks cost?",
-  
-"first_text":"BR game is free, and with its stonkingly high FN player numbers in mind, Epic has to make money from it somehow.Its answer is FN V-Bucks, a virtual currency with which you can acquire a handsome collection of colourful cosmetics in exchange for real money. However, you can’t spend your digital dollars on anything that will give you a competitive advantage. These items are purely for fashion purposes, which is an end unto itself in our book.You can also use your FN V-Bucks to grab yourself a Battle Pass, a tiered system within each season in which you can unlock challenges to win yourself more cosmetic stash. Battle Passes, including the FN Chapter 3 Season 2 pass, cost 950 V-Bucks and, in the item store, outfits and emotes tend to cost between 1500 and 500;  legendaries cost 2000. FN V-Bucks are on sale permanently, with V-Bucks now discounted at 20% off across all platforms.",
-"second_text":"You can buy EP  virtual currency with real money, but how do you get free V-Bucks? There are a couple of ways to do this, but the catch is you need to have purchased Save the World, first. Legitimate FN V-Bucks giveaways do exist, but you should be very careful. Plenty of links and sites claiming to offer free V-Bucks will more often than not be scams. In March 2018, Epic used the tweet above to urge FN fans to be careful with their personal details.If you have bought FN Save the World, then you can hoover up free V-Bucks just by logging into the game and claiming the daily login rewards. Note: you might not always get free V-Bucks for logging in, as sometimes you might get a llama loot box. That means daily logins are not exactly the fastest way you can build up your stockpile, but every little helps. Even if you do not have time to play, make sure you login anyway to give yourself the best chance to get that sweet, sweet digital coin.One last thing to note on this is that EP Games has changed its reward system for Save The World so that only founders are eligible for free V-Bucks – here’s how they currently classify founders and non-founders.You can also get free V-Bucks from daily and challenge quests in Save the World: 50 for completing one of each. Storm Shield Defense main story missions are another means of doing so, and they net you 100 V-Bucks each. You can then spend FN V-Bucks earned in Save the World on new threads in B R.",
-"third_text":"FN V-Bucks are sold in specific quantities: you cannot see an outfit with a 1500 V-Bucks price tag and buy only 1500. Below you will find the V-Bucks bundles available and their real-world cost with the new 20% off applied. In a statement released by ep Games, they outline exactly how the discount works across platforms and their reasoning for the discount on V-Bucks saying, “Currently, when using Apple and Google payment options, Apple and Google collect a 30% fee, and the up to 20% price drop does not apply. If Apple or Google lower their fees on payments in the future, Epic will pass along the savings to you”.1000 – £6.49/$7.992800 – £15.99/$19.995000 – £25.99/$31.9913500 – £64.99/$79.99",
+"change_content":"yes",
+"game_url":"https://google.com",
+"splash_text":"myapp",
   
 "real_button_1":"first real button",
 "real_button_2":"second real button",
@@ -40,11 +12,6 @@
 "real_button_4":"fourth real button"
   
 
-  
-
-
-
-  
 
 },
  "my_data":[
@@ -56,4 +23,3 @@
    ]
 
 }
-   
